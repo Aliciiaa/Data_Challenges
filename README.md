@@ -1,7 +1,7 @@
 # Data challenge sur deux problèmes d'apprentissage supervisé
 Ce répertoire github contient le code pour chaque projet :
 - un problème de régression sur la prédiction des pourboires des taxis à New York (`Taxis_tips.ipynb`)
-- un problème de classification sur la prédiction du type de végétation (`Forest_cover.ipynb`)
+- un problème de classification sur la prédiction du type de végétation (`Forest_cover_type.ipynb`)
 
 # Prédiction des Pourboires des Taxis à New York 🚖💰
 
@@ -14,4 +14,5 @@ Pour exécuter le code correspondant, il est nécessaire de changer le chemin po
 
 Ce projet vise à prédire le type de végétation forestière (`Cover_Type`) dans des parcelles de 30m × 30m situées dans la forêt nationale de Roosevelt, Colorado. Ces prédictions sont basées sur des caractéristiques cartographiques comme l'altitude, l'inclinaison, et le type de sol.
 
+Pour exécuter le code correspondant, il est nécessaire de changer le chemin pour le chargement des jeux de données, dans 2ème cellule du notebook `Forest_cover_type.ipynb`.
 
